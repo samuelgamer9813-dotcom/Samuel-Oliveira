@@ -1,0 +1,5 @@
+{
+  "name": "AI Clothing Swap",
+  "description": "An application that uses AI to swap clothing between two images. Upload an image of a model and an image of an outfit, and the AI will dress the model in the new outfit.",
+  "requestFramePermissions": []
+}
